@@ -19,7 +19,7 @@ Use Azure Application Gateway for load balancing.
 
 Use Azure SQL Database to hold inventory and pricing information.
 
-![alt text](images/pricing_calc/image.png)
+![alt text](./Images/pricing_calc/image.png)
 
 In practice, you would define your requirements in greater detail. But here are some basic facts and requirements to get you started:
 
@@ -35,7 +35,7 @@ Go to the [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
 
 Notice the following tabs:
 
-![alt text](images/pricing_calc/image-1.png)
+![alt text](./Images/pricing_calc/image-1.png)
 
 Products: This is where you choose the Azure services that you want to include in your estimate. You'll likely spend most of your time here.
 
@@ -53,20 +53,20 @@ FAQs: Here you'll discover answers to frequently asked questions about the Prici
 
 On the Products tab, select the service from each of the categories
 
-![alt text](images/pricing_calc/image-2.png)
+![alt text](./Images/pricing_calc/image-2.png)
 
 I have selected these services
 
-![alt text](images/pricing_calc/image-3.png)
+![alt text](./Images/pricing_calc/image-3.png)
 
 #### Virtual Machines config
-![alt text](images/pricing_calc/image-4.png)
+![alt text](./Images/pricing_calc/image-4.png)
 
 #### Azure SQL database config
-![alt text](images/pricing_calc/image-5.png)
+![alt text](./Images/pricing_calc/image-5.png)
 
 #### Application Gateway config
-![alt text](images/pricing_calc/image-6.png)
+![alt text](./Images/pricing_calc/image-6.png)
 
 ---
 
