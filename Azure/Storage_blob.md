@@ -8,13 +8,13 @@ Under Categories, select Storage.
 
 Under Storage account, select Create.
 
-![alt text](Images/image.png)
+![alt text](Images/blob/image.png)
 
-![alt text](Images/image-1.png)
+![alt text](Images/blob/image-1.png)
 
 On the Advanced tab of the Create a storage account blade, fill in the following information.
 
-![alt text](Images/image-4.png)
+![alt text](Images/blob/image-4.png)
 
 click review + create
 
@@ -22,15 +22,15 @@ Select Go to resource.
 
 ## Work with blob storage
 
-![alt text](Images/image-5.png)
+![alt text](Images/blob/image-5.png)
 
 I have created a container named "data" here
 
-![alt text](Images/image-2.png)
+![alt text](Images/blob/image-2.png)
 
 Click on the container and upload anything. I have uploaded an image.
 
-![alt text](Images/image-3.png)
+![alt text](Images/blob/image-3.png)
 
 Now, if we click on the image, it opens up properties which consists of an URL.
 
@@ -42,7 +42,7 @@ Select Change access level.
 
 Set the Anonymous access level to Blob (anonymous read access for blobs only).
 
-![alt text](Images/image-6.png)
+![alt text](Images/blob/image-6.png)
 
 Now, you should be able to access the image through URL, initially it was set to private.
 
