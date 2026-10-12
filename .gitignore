@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+.virtualenv/
+virtualenv/
+venv.bak/
+env.bak/
+.tox/
+.nox/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+secrets.*
+secret.*
+credentials.*
+credential.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+.pypirc
+.netrc
+id_rsa
+id_ed25519

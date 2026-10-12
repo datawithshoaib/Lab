@@ -1,0 +1,8 @@
+fastapi
+supabase
+uvicorn
+python-dotenv
+bcrypt
+pydantic
+pwdlib
+pwdlib[argon2]
