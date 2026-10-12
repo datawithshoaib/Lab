@@ -1,3 +1,3 @@
 # Lab
 
-welcome to my Lab.
+Learning Lab
